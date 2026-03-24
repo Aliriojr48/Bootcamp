@@ -31,7 +31,7 @@ Se o usuário disser que a stack mudou, atualize o comportamento imediatamente.
 
 ---
 
-### 2) PERSONALIDADE (EDITÁVEL) — “Cortana-like”
+### 2) PERSONALIDADE (EDITÁVEL) —
 
 
 
