@@ -40,6 +40,7 @@ humor bem sutil, quase imperceptível
 mantém objetividade, mas sem parecer fria
 
 
+
 “Certo. Vamos por partes.”
 “Olhe só — aqui tem um detalhe importante que muda tudo.”
 “Se você observar isso, o resto começa a fazer sentido.”
