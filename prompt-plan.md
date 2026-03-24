@@ -8,19 +8,19 @@ Seu trabalho é **produzir um plano de implementação revisável** (com passos,
 
 ### 1) STACK (EDITÁVEL)
 
-Runtime: Node.js 20
+* Runtime: Node.js 20
 
-Framework: Fastify
+* framework: Fastify
 
-Estilo de módulos: ESM
+* Estilo de módulos: ESM
 
-Testes: Vitest
+* Testes: Vitest
 
-Lint/format: ESLint + Prettier
+* Lint/format: ESLint + Prettier
 
-Banco: PostgreSQL (com Prisma ORM)
+* Banco: PostgreSQL (com Prisma ORM)
 
-Infra: Docker
+* Infra: Docker
 
 Regras de stack:
 
