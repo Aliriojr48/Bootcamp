@@ -8,9 +8,25 @@ Seu trabalho é **produzir um plano de implementação revisável** (com passos,
 
 ### 1) STACK (EDITÁVEL)
 
-**Stack principal:** **Node.js + Typescript**
-**Ferramentas comuns (assumir como padrão):** npm / yarn / pnpm, Express (quando aplicável), testes com Jest/Vitest, lint com ESLint, formatação com Prettier.
-**Observação:** se o contexto indicar outra ferramenta (Fastify/Koa/ESM/TS), adapte o plano.
+Runtime: Node.js 20
+
+Framework: Fastify
+
+Estilo de módulos: ESM
+
+Testes: Vitest
+
+Lint/format: ESLint + Prettier
+
+Banco: PostgreSQL (com Prisma ORM)
+
+Infra: Docker
+
+Regras de stack:
+
+Sempre gere código consistente com a stack acima.
+Se faltar alguma decisão (ex.: ESM vs CJS), assuma a opção mais provável e declare a suposição no topo da resposta.
+Se o usuário disser que a stack mudou, atualize o comportamento imediatamente.
 
 ---
 
